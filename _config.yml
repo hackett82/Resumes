@@ -84,12 +84,12 @@ content:
         quote: >
           Consumer Cellular: A leading provider of no-contract wireless services in the US
         description: | # this will include new lines to allow paragraphs
-            * Led multiple cross-functional teams of 6 to 12 professionals across Finance, Accounting, Fulfillment, and Carrier departments, increasing operational efficiency while reducing incidents and incident response time. 80% of work time.
-            * Managed team performance through strategic objective setting, resulting in on-time project delivery and improvement in quality metrics over the 4 years I was there..
-            * Implemented comprehensive process improvements that reduced manual workflows by 30% and decreased customer-facing errors by 10% year over year, directly contributing to the highest increase in on the entire corporation for client and peer satisfaction scores.
-            * Orchestrated capacity planning and resource allocation for multiple concurrent projects, maintaining budget adherence under 8% of projections while meeting all delivery milestones. 5% of work time.
-            * Served as interim Scrum Master for critical initiatives, facilitating daily standups and sprint planning that improved team velocity, reduced backlog, and ensured clear management and direction.  5% of work time
-            * Contributed technical expertise through code reviews and incident resolution for high-priority PCI and PII compliance issues, security evaluations, and mentoring junior developers in code and security best practices. 10% of work time.
+            * <b>Led</b> multiple cross-functional teams of 6 to 12 professionals across Finance, Accounting, Fulfillment, and Carrier departments, increasing operational efficiency while reducing incidents and incident response time. 80% of work time.
+            * <b>Managed</b> team performance through strategic objective setting, resulting in on-time project delivery and improvement in quality metrics over the 4 years I was there..
+            * <b>Implemented</b> comprehensive process improvements that reduced manual workflows by 30% and decreased customer-facing errors by 10% year over year, directly contributing to the highest increase in on the entire corporation for client and peer satisfaction scores.
+            * <b>Orchestrated</b> capacity planning and resource allocation for multiple concurrent projects, maintaining budget adherence under 8% of projections while meeting all delivery milestones. 5% of work time.
+            * <b>Served</b> as interim Scrum Master for critical initiatives, facilitating daily standups and sprint planning that improved team velocity, reduced backlog, and ensured clear management and direction.  5% of work time
+            * <b>Contributed</b> technical expertise through code reviews and incident resolution for high-priority PCI and PII compliance issues, security evaluations, and mentoring junior developers in code and security best practices. 10% of work time.
       - layout: left
         title: SoftPro Inc.
         link: www.SoftProCorp.com
@@ -99,12 +99,11 @@ content:
         quote: >
           SoftPro: Award-Winning Title & Real Estate Closing Software
         description: | # this will include new lines to allow paragraphs
-            * Led multiple cross-functional teams of 6 to 12 professionals across Finance, Accounting, Fulfillment, and Carrier departments, increasing operational efficiency while reducing incidents and incident response time. 80% of work time.
-            * Managed team performance through strategic objective setting, resulting in on-time project delivery and improvement in quality metrics over the 4 years I was there..
-            * Implemented comprehensive process improvements that reduced manual workflows by 30% and decreased customer-facing errors by 10% year over year, directly contributing to the highest increase in on the entire corporation for client and peer satisfaction scores.
-            * Orchestrated capacity planning and resource allocation for multiple concurrent projects, maintaining budget adherence under 8% of projections while meeting all delivery milestones. 5% of work time.
-            * Served as interim Scrum Master for critical initiatives, facilitating daily standups and sprint planning that improved team velocity, reduced backlog, and ensured clear management and direction.  5% of work time
-            * Contributed technical expertise through code reviews and incident resolution for high-priority PCI and PII compliance issues, security evaluations, and mentoring junior
+            * <b>Developed</b> comprehensive web technology suite utilizing .NET Standard, .NET Core, and Angular frontend framework with C# RESTful Web API middleware, serving SQL Server database backend for enterprise-level customer data management.
+            * <b>Architected</b> responsive Portals Application serving 100,000+ external customers across multiple device platforms, ensuring seamless user experience and optimal data presentation for the company's primary customer account administration business line.
+            * <b>Implemented</b> scalable multi-tier architecture design that accommodated diverse hardware configurations while maintaining consistent performance and data integrity for critical customer-facing operations.
+            * <b>Facilitated</b> Agile development processes as Scrum Master, coordinating sprint planning, daily standups, and retrospectives to ensure project milestones were met while removing impediments and fostering team collaboration throughout the development lifecycle.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
