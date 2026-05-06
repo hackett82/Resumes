@@ -73,8 +73,20 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of continuing to learn <mark>javascript</mark> languages, this time <mark>Svelte</mark> and it has since grown into a fully fledged app.  I started by asking claude to build the scaffolding and then realized any work would be Millions of tokens of work, So i set off on my own.  I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        
+      - layout: top-middle
+        title: Super awesome project
+        link: hackett82/restaurant-headless-cms
+        # link_text: Project Website
+        additional_links:
+          - title:  peak at the code
+            icon: fab fa-github
+            url: github.com/hackett82/restaurant-headless-cms
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I got tired of trying to figure out where the gaps in managing the team were at.
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of continuing to learn <mark>javascript</mark> languages, this time <mark>Svelte</mark>
 
